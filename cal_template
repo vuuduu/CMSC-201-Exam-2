@@ -1,0 +1,10 @@
+create x 3
+create y 2
+create z 4
+add x y w
+display w
+mul x z k
+display all
+create hello 15
+add hello hello hello
+display hello
